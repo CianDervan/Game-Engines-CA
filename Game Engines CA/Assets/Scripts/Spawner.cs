@@ -16,7 +16,7 @@ public class Spawner : MonoBehaviour
         {
             for (int i = -halfWidth; i < halfWidth; i++)
             {
-                Vector3 pos = transform.TransformPoint(new Vector3(i, 0, j+1));
+                Vector3 pos = transform.TransformPoint(new Vector3(5, i, j+1));
 
 
                 GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
@@ -28,7 +28,7 @@ public class Spawner : MonoBehaviour
 
                 cube.transform.parent = this.transform; // Parenting
 
-                cube.AddComponent<Rigidbody>();
+                
 
             }
         }
