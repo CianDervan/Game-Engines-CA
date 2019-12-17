@@ -5,3 +5,5 @@ Here are some videos that I have taking inspiration from.
 https://youtu.be/S1h6h17zOMw
 https://youtu.be/82Q6DRqf9H4
 https://youtu.be/IsDfnIbshj4
+
+Unfortunatly my original concept that I wanted to do, I was unable to complete it. I wanted the cube that incases the circle to be much bigger and have more objects that pulsed to the music along with the cubes that made up the exterior. The exterior had to be reduced as the ammount of cubes that I originally wanted was to much for my laptop to handle. In terms of getting the exterrior to pulse it tried a few ways both judt trying it on my own and using the internet to find other ways to do it. Unfortunatly every way either failed or crashed my laptop so im uncertain if this would have worked and my laptop couldnt handle it or if it was also a failure 
